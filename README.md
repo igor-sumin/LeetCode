@@ -9,6 +9,7 @@ LeetCode
 |179|  [Largest number](https://leetcode.com/problems/largest-number/) | [C++](./cpp/179_largest_number.cpp) |
 |200|  [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./cpp/200_number_of_islands.py) |
 |238|  [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./python/238_product_of_array_except_self.py) |
+|287|  [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python](./python/287_find_the_duplicate_number.py) |
 |476|  [Number Complement](https://leetcode.com/problems/number-complement/) | [C++](./cpp/476_number_complement.cpp) |
 |495|  [Teemo attacking](https://leetcode.com/problems/teemo-attacking/) | [C++](./cpp/495_teemo_attacking.cpp) |
 |819|  [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python](./python/819_most_common_word.py) |
