@@ -15,4 +15,5 @@ LeetCode
 |819|  [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python](./python/819_most_common_word.py) |
 |876|  [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](./cpp/876_middle_of_the_linked_list.cpp) |
 |1046| [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [C++](./cpp/1046_last_stone_weight.cpp) |
+|1295| [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Python](./python/1295_find_numbers_with_even_number_of_digits.py) |	
 |1427| [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [C++](./cpp/1427_perform_string_shifts.cpp) |
