@@ -42,7 +42,7 @@ def formater(lst_number, lst_problem, lst_solution):
 if __name__ == "__main__":
 	try:
 		k = int(input('quantity tasks: '))
-		if k < 0:
+		if k <= 0:
 			raise Exception("incorrect QUANTITY format")
 
 		lst_number = []
