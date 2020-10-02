@@ -1,7 +1,7 @@
 import sys
 import re
 
-prev = "LeetCode\n========\n\n### Solutions for LeetCode (C++ & Python)\n\n| # | Title | Solution |\n|---| ----- | -------- |\n"
+PREV = "LeetCode\n========\n\n### Solutions for LeetCode (C++ & Python)\n\n| # | Title | Solution |\n|---| ----- | -------- |\n"
 
 def formater(lst_number, lst_problem, lst_solution):
 	def problem_formater(sep, problem):
@@ -34,41 +34,44 @@ def formater(lst_number, lst_problem, lst_solution):
 		)
 
 	with open("README.md", "w") as file_obj:
-		file_obj.writelines(prev)
+		file_obj.writelines(PREV)
 		file_obj.write(
 			''.join(map(str, data))
 		)
 
 if __name__ == "__main__":
-	try:
+	k = 0
+	while k <= 0 or k > 11:
 		k = int(input('quantity tasks: '))
-		if k <= 0:
-			raise Exception("incorrect QUANTITY format")
 
-		lst_number = []
-		lst_problem = []
-		lst_solution = []
-		for i in range(k):
-			print("\nproblem №{}".format(i + 1))
+	lst_number = []
+	lst_problem = []
+	lst_solution = []
+	for i in range(k):
+		print("\nproblem №{}".format(i + 1))
+
+		number = ''
+		while not number.isdigit() or int(number) <= 0 or int(number) > 9999:
 			number = input('number: ')
-			if not number.isdigit() or int(number) <= 0 or int(number) > 9999:
-				raise Exception("incorrect NUMBER format")
+			if number.startswith('!'):
+				print('')
+				sys.exit()
 
+		problem = ''
+		while not problem or any([not word.istitle() for word in problem.split() if len(word) > 3]):
 			problem = input('name: ')
-			if not problem or any([not word.istitle() for word in problem.split() if len(word) > 3]):
-				raise Exception("incorrect PROBLEM format")
+			if problem.startswith('!'):
+				sys.exit()
 
+		solution = ''
+		while not solution or (solution != 'py' and solution != 'cpp'):
 			solution = input('py, cpp: ')
-			if solution != 'py' and solution != 'cpp':
-				raise Exception("incorrect SOLUTION format")
+			if solution.startswith('!'):
+				sys.exit()
 
-			lst_number.append(number)
-			lst_problem.append(problem)
-			lst_solution.append(solution)
-
-	except Exception as e:
-		print(e)
-		sys.exit()
+		lst_number.append(number)
+		lst_problem.append(problem)
+		lst_solution.append(solution)
 
 	formater(lst_number, lst_problem, lst_solution)
-	print('\ndone')
+	print('\nadding {} solutions'.format(k))
