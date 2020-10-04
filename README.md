@@ -6,7 +6,7 @@ LeetCode
 | # | Title | Solution |
 |---| ----- | -------- |
 |49|   [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [C++](./cpp/49_group_anagrams.cpp) |
-|100|  [same tree](https://leetcode.com/problems/same-tree/) | [C++](./cpp/100_same_tree.cpp) |
+|100|  [Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./cpp/100_same_tree.cpp), [Python](./py/100_same_tree.py) |
 |179|  [Largest number](https://leetcode.com/problems/largest-number/) | [C++](./cpp/179_largest_number.cpp) |
 |200|  [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./cpp/200_number_of_islands.py) |
 |206|  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./cpp/206_reverse_linked_list.cpp) |
