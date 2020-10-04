@@ -20,12 +20,19 @@ def formater(lst_number, lst_problem, lst_solution):
 		reference_form = 'https://leetcode.com/problems/' + problem_formater('-', problem) + '/'
 
 		# py -> Python
-		solution_form = 'Python' if solution == 'py' else 'C++'
+		var = ''
+		solution = solution.split()
+		for sol in solution:
+			solution_form = 'Python' if sol == 'py' else 'C++'
 
-		# (209) Group Anagrams (py) -> ./py/209_group_anagrams.py
-		local_form = './' + solution + '/' + number + '_' + problem_formater('_', problem) + '.' + solution
+			# (209) Group Anagrams (py) -> ./py/209_group_anagrams.py
+			local_form = './' + sol + '/' + number + '_' + problem_formater('_', problem) + '.' + sol
+			var += '[{}]({}), '.format(solution_form, local_form)
+
+		# remove the extra comma
+		var = var[:-2]
 		
-		candidate = "{0} [{1}]({2}) | [{3}]({4}) |".format(number_form, problem, reference_form, solution_form, local_form)
+		candidate = "{0} [{1}]({2}) | {3} |".format(number_form, problem, reference_form, var)
 		data.append(candidate + '\n')
 
 		# sorting by the number found in the data: ["|259| ...", "|3567| ...", etc]
@@ -58,13 +65,13 @@ if __name__ == "__main__":
 				sys.exit()
 
 		problem = ''
-		while not problem or any([not word.istitle() for word in problem.split() if len(word) > 3]):
+		while not problem or any([not word.istitle() for word in problem.split() if len(word) > 4]):
 			problem = input('name: ')
 			if problem.startswith('!'):
 				sys.exit()
 
 		solution = ''
-		while not solution or (solution != 'py' and solution != 'cpp'):
+		while not solution and (solution != 'py' and solution != 'cpp') and (solution != 'cpp py' and solution != 'py cpp'):
 			solution = input('py, cpp: ')
 			if solution.startswith('!'):
 				sys.exit()
