@@ -26,7 +26,7 @@ def formater(lst_number, lst_problem, lst_solution):
 			solution_form = 'Python' if sol == 'py' else 'C++'
 
 			# (209) Group Anagrams (py) -> ./py/209_group_anagrams.py
-			local_form = './' + sol + '/' + number + '_' + problem_formater('_', problem) + '.' + sol
+			local_form = './' + ('python' if (sol == 'py') else sol) + '/' + number + '_' + problem_formater('_', problem) + '.' + sol
 			var += '[{}]({}), '.format(solution_form, local_form)
 
 		# remove the extra comma
