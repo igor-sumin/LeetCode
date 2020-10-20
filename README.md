@@ -10,6 +10,7 @@ LeetCode
 |179|  [Largest number](https://leetcode.com/problems/largest-number/) | [C++](./cpp/179_largest_number.cpp) |
 |200|  [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./cpp/200_number_of_islands.py) |
 |206|  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./cpp/206_reverse_linked_list.cpp) |
+|231|  [Power of Two](https://leetcode.com/problems/power-of-two/) | [C++](./cpp/231_power_of_two.cpp), [Python](./python/231_power_of_two.py) |
 |237|  [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C++](./cpp/237_delete_node_in_a_linked_list.cpp) |
 |238|  [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./python/238_product_of_array_except_self.py) |
 |287|  [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python](./python/287_find_the_duplicate_number.py) |
