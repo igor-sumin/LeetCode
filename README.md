@@ -9,6 +9,7 @@ LeetCode
 |49|   [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [C++](./cpp/49_group_anagrams.cpp) |
 |100|  [Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./cpp/100_same_tree.cpp), [Python](./py/100_same_tree.py) |
 |108|  [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](./cpp/108_convert_sorted_array_to_binary_search_tree.cpp) |
+|125|  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./cpp/125_valid_palindrome.cpp), [Python](./python/125_valid_palindrome.py) |
 |179|  [Largest number](https://leetcode.com/problems/largest-number/) | [C++](./cpp/179_largest_number.cpp) |
 |200|  [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./cpp/200_number_of_islands.py) |
 |206|  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./cpp/206_reverse_linked_list.cpp) |
@@ -22,6 +23,7 @@ LeetCode
 |704|  [Binary Search](https://leetcode.com/problems/binary-search/) | [C++](./cpp/704_binary_search.cpp) |
 |819|  [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python](./python/819_most_common_word.py) |
 |876|  [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](./cpp/876_middle_of_the_linked_list.cpp) |
+|917|  [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [C++](./cpp/917_reverse_only_letters.cpp) |
 |1046| [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [C++](./cpp/1046_last_stone_weight.cpp) |
 |1232| [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [C++](./cpp/1232_check_if_it_is_a_straight_line.cpp) |	
 |1288| [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [Python](./python/1288_remove_covered_intervals.py) |
