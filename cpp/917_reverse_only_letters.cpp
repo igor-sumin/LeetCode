@@ -11,6 +11,14 @@ public:
         return (('a' <= c && c <= 'z') || ('A' <= c && c <= 'Z'));
     }
     
+    char toLower(char c) {
+        // преобразуем верхний регитср в нижний - аналог (char)tolower
+        if ('A' <= c && c <= 'Z') {
+            return char(c - 'A' + 'a');
+        }
+        return c;
+    }
+
     // 1 способ
     string reverseOnlyLetters(const string& S) {
         string result;

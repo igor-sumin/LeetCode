@@ -22,6 +22,7 @@ LeetCode
 |637|  [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [C++](./cpp/637_average_of_levels_in_binary_tree.cpp) |
 |704|  [Binary Search](https://leetcode.com/problems/binary-search/) | [C++](./cpp/704_binary_search.cpp) |
 |819|  [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python](./python/819_most_common_word.py) |
+|852|  [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [C++](./cpp/852_peak_index_in_a_mountain_array.cpp), [Python](./python/852_peak_index_in_a_mountain_array.py) |
 |876|  [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](./cpp/876_middle_of_the_linked_list.cpp) |
 |917|  [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [C++](./cpp/917_reverse_only_letters.cpp) |
 |1046| [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [C++](./cpp/1046_last_stone_weight.cpp) |
