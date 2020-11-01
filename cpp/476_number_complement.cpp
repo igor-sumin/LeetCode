@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// 1 способ
 int findComplement(int num) {
 	vector<int> bits;
 	while(num) {
@@ -20,6 +21,28 @@ int findComplement(int num) {
 
 	return result;
 }
+
+// 2 способ
+int findComplement(int num) {
+	// int -> 32 bits
+	bitset<32> bits(num);
+
+	int res = 0;
+	for (int i = 0; i < 31; i++) {
+		if (bits[i] == 0) {
+			res += pow(2, i);
+		} else {
+			bits[i] = bits[i] ^ 1;
+
+			if (bits == 0) {
+				break;
+			}
+		}
+	}
+
+	return res;
+}
+
 
 int main() {
 	// Given a positive integer, output its complement number. The complement strategy is to flip the bits of its binary representation.

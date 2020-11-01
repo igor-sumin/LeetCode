@@ -10,6 +10,7 @@ LeetCode
 |100|  [Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./cpp/100_same_tree.cpp), [Python](./py/100_same_tree.py) |
 |108|  [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](./cpp/108_convert_sorted_array_to_binary_search_tree.cpp) |
 |125|  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./cpp/125_valid_palindrome.cpp), [Python](./python/125_valid_palindrome.py) |
+|136|  [Single Number](https://leetcode.com/problems/single-number/) | [C++](./cpp/136_single_number.cpp) |
 |179|  [Largest number](https://leetcode.com/problems/largest-number/) | [C++](./cpp/179_largest_number.cpp) |
 |200|  [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./cpp/200_number_of_islands.py) |
 |206|  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./cpp/206_reverse_linked_list.cpp) |
@@ -22,6 +23,7 @@ LeetCode
 |637|  [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [C++](./cpp/637_average_of_levels_in_binary_tree.cpp) |
 |704|  [Binary Search](https://leetcode.com/problems/binary-search/) | [C++](./cpp/704_binary_search.cpp) |
 |819|  [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python](./python/819_most_common_word.py) |
+|821|  [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [C++](./cpp/821_shortest_distance_to_a_character.cpp) |
 |852|  [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [C++](./cpp/852_peak_index_in_a_mountain_array.cpp), [Python](./python/852_peak_index_in_a_mountain_array.py) |
 |876|  [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](./cpp/876_middle_of_the_linked_list.cpp) |
 |897|  [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [C++](./cpp/897_increasing_order_search_tree.cpp) |
