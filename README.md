@@ -20,6 +20,7 @@ LeetCode
 |287|  [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python](./python/287_find_the_duplicate_number.py) |
 |476|  [Number Complement](https://leetcode.com/problems/number-complement/) | [C++](./cpp/476_number_complement.cpp) |
 |495|  [Teemo attacking](https://leetcode.com/problems/teemo-attacking/) | [C++](./cpp/495_teemo_attacking.cpp) |
+|496|  [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [C++](./cpp/496_next_greater_element_i.cpp) |
 |637|  [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [C++](./cpp/637_average_of_levels_in_binary_tree.cpp) |
 |704|  [Binary Search](https://leetcode.com/problems/binary-search/) | [C++](./cpp/704_binary_search.cpp) |
 |819|  [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python](./python/819_most_common_word.py) |
@@ -32,5 +33,7 @@ LeetCode
 |1046| [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [C++](./cpp/1046_last_stone_weight.cpp) |
 |1232| [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [C++](./cpp/1232_check_if_it_is_a_straight_line.cpp) |	
 |1288| [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [Python](./python/1288_remove_covered_intervals.py) |
+|1290| [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [C++](./cpp/1290_convert_binary_number_in_a_linked_list_to_integer.cpp) |
 |1295| [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Python](./python/1295_find_numbers_with_even_number_of_digits.py) |	
 |1427| [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [C++](./cpp/1427_perform_string_shifts.cpp) |
+|1446| [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [C++](./cpp/1446_consecutive_characters.cpp) |
