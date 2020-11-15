@@ -5,18 +5,21 @@ LeetCode
 
 | # | Title | Solution |
 |---| ----- | -------- |
+|13|   [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./cpp/13_roman_to_integer.cpp) |
 |17|   [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [C++](./cpp/17_letter_combinations_of_a_phone_number.cpp) |
 |49|   [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [C++](./cpp/49_group_anagrams.cpp) |
 |100|  [Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./cpp/100_same_tree.cpp), [Python](./py/100_same_tree.py) |
 |108|  [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](./cpp/108_convert_sorted_array_to_binary_search_tree.cpp) |
 |125|  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./cpp/125_valid_palindrome.cpp), [Python](./python/125_valid_palindrome.py) |
 |136|  [Single Number](https://leetcode.com/problems/single-number/) | [C++](./cpp/136_single_number.cpp) |
+|171|  [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./cpp/171_excel_sheet_column_number.cpp) |
 |179|  [Largest number](https://leetcode.com/problems/largest-number/) | [C++](./cpp/179_largest_number.cpp) |
 |200|  [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./cpp/200_number_of_islands.py) |
 |206|  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./cpp/206_reverse_linked_list.cpp) |
 |231|  [Power of Two](https://leetcode.com/problems/power-of-two/) | [C++](./cpp/231_power_of_two.cpp), [Python](./python/231_power_of_two.py) |
 |237|  [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C++](./cpp/237_delete_node_in_a_linked_list.cpp) |
 |238|  [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./python/238_product_of_array_except_self.py) |
+|283|  [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./cpp/283_move_zeroes.cpp) |
 |287|  [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python](./python/287_find_the_duplicate_number.py) |
 |476|  [Number Complement](https://leetcode.com/problems/number-complement/) | [C++](./cpp/476_number_complement.cpp) |
 |495|  [Teemo attacking](https://leetcode.com/problems/teemo-attacking/) | [C++](./cpp/495_teemo_attacking.cpp) |
