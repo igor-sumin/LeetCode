@@ -14,7 +14,7 @@ LeetCode
 |136|  [Single Number](https://leetcode.com/problems/single-number/) | [C++](./cpp/136_single_number.cpp) |
 |171|  [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./cpp/171_excel_sheet_column_number.cpp) |
 |179|  [Largest number](https://leetcode.com/problems/largest-number/) | [C++](./cpp/179_largest_number.cpp) |
-|200|  [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./cpp/200_number_of_islands.py) |
+|200|  [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./cpp/200_number_of_islands.cpp) |
 |206|  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./cpp/206_reverse_linked_list.cpp) |
 |231|  [Power of Two](https://leetcode.com/problems/power-of-two/) | [C++](./cpp/231_power_of_two.cpp), [Python](./python/231_power_of_two.py) |
 |237|  [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C++](./cpp/237_delete_node_in_a_linked_list.cpp) |
@@ -40,3 +40,4 @@ LeetCode
 |1295| [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Python](./python/1295_find_numbers_with_even_number_of_digits.py) |	
 |1427| [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [C++](./cpp/1427_perform_string_shifts.cpp) |
 |1446| [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [C++](./cpp/1446_consecutive_characters.cpp) |
+|1480| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python](./python/1480_running_sum_of_1d_array.py) |
