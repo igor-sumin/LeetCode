@@ -20,6 +20,7 @@ LeetCode
 |231|  [Power of Two](https://leetcode.com/problems/power-of-two/) | [C++](./cpp/231_power_of_two.cpp), [Python](./python/231_power_of_two.py) |
 |237|  [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C++](./cpp/237_delete_node_in_a_linked_list.cpp) |
 |238|  [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./python/238_product_of_array_except_self.py) |
+|278|  [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [C++](./cpp/278_first_bad_version.cpp) |
 |283|  [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./cpp/283_move_zeroes.cpp) |
 |287|  [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python](./python/287_find_the_duplicate_number.py) |
 |290|  [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](./python/290_word_pattern.py) |
@@ -27,6 +28,7 @@ LeetCode
 |495|  [Teemo attacking](https://leetcode.com/problems/teemo-attacking/) | [C++](./cpp/495_teemo_attacking.cpp) |
 |496|  [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [C++](./cpp/496_next_greater_element_i.cpp) |
 |637|  [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [C++](./cpp/637_average_of_levels_in_binary_tree.cpp) |
+|665|  [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [C++](./cpp/665_non_decreasing_array.cpp) |
 |704|  [Binary Search](https://leetcode.com/problems/binary-search/) | [C++](./cpp/704_binary_search.cpp) |
 |819|  [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python](./python/819_most_common_word.py) |
 |821|  [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [C++](./cpp/821_shortest_distance_to_a_character.cpp) |
