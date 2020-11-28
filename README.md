@@ -7,6 +7,7 @@ LeetCode
 |---| ----- | -------- |
 |13|   [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./cpp/13_roman_to_integer.cpp) |
 |17|   [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [C++](./cpp/17_letter_combinations_of_a_phone_number.cpp) |
+|28|   [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](./cpp/28_implement_strstr.cpp) |
 |49|   [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [C++](./cpp/49_group_anagrams.cpp) |
 |100|  [Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./cpp/100_same_tree.cpp), [Python](./py/100_same_tree.py) |
 |108|  [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](./cpp/108_convert_sorted_array_to_binary_search_tree.cpp) |
@@ -24,6 +25,7 @@ LeetCode
 |283|  [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./cpp/283_move_zeroes.cpp) |
 |287|  [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python](./python/287_find_the_duplicate_number.py) |
 |290|  [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](./python/290_word_pattern.py) |
+|394|  [Decode String](https://leetcode.com/problems/decode-string/) | [C++](./cpp/394_decode_string.cpp) |
 |476|  [Number Complement](https://leetcode.com/problems/number-complement/) | [C++](./cpp/476_number_complement.cpp) |
 |495|  [Teemo attacking](https://leetcode.com/problems/teemo-attacking/) | [C++](./cpp/495_teemo_attacking.cpp) |
 |496|  [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [C++](./cpp/496_next_greater_element_i.cpp) |
