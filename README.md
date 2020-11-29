@@ -9,6 +9,7 @@ LeetCode
 |17|   [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [C++](./cpp/17_letter_combinations_of_a_phone_number.cpp) |
 |28|   [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](./cpp/28_implement_strstr.cpp) |
 |49|   [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [C++](./cpp/49_group_anagrams.cpp) |
+|70|   [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](./cpp/70_climbing_stairs.cpp) |
 |100|  [Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./cpp/100_same_tree.cpp), [Python](./py/100_same_tree.py) |
 |108|  [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](./cpp/108_convert_sorted_array_to_binary_search_tree.cpp) |
 |125|  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./cpp/125_valid_palindrome.cpp), [Python](./python/125_valid_palindrome.py) |
@@ -47,3 +48,4 @@ LeetCode
 |1427| [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [C++](./cpp/1427_perform_string_shifts.cpp) |
 |1446| [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [C++](./cpp/1446_consecutive_characters.cpp) |
 |1480| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python](./python/1480_running_sum_of_1d_array.py) |
+|1672| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [C++](./cpp/1672_richest_customer_wealth.cpp), [Python](./python/1672_richest_customer_wealth.py) |
