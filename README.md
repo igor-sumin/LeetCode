@@ -6,6 +6,7 @@ LeetCode
 | # | Title | Solution |
 |---| ----- | -------- |
 |13|   [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./cpp/13_roman_to_integer.cpp) |
+|14|   [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./python/14_longest_common_prefix.py) |
 |17|   [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [C++](./cpp/17_letter_combinations_of_a_phone_number.cpp) |
 |28|   [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](./cpp/28_implement_strstr.cpp) |
 |49|   [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [C++](./cpp/49_group_anagrams.cpp) |
@@ -14,6 +15,7 @@ LeetCode
 |108|  [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](./cpp/108_convert_sorted_array_to_binary_search_tree.cpp) |
 |125|  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./cpp/125_valid_palindrome.cpp), [Python](./python/125_valid_palindrome.py) |
 |136|  [Single Number](https://leetcode.com/problems/single-number/) | [C++](./cpp/136_single_number.cpp) |
+|162|  [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [C++](./cpp/162_find_peak_element.cpp), [Python](./python/162_find_peak_element.py) |
 |171|  [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./cpp/171_excel_sheet_column_number.cpp) |
 |179|  [Largest number](https://leetcode.com/problems/largest-number/) | [C++](./cpp/179_largest_number.cpp) |
 |200|  [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./cpp/200_number_of_islands.cpp) |
