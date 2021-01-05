@@ -103,7 +103,7 @@ int main() {
 		{3, 2}
 	};
 
-	vector<int> res = findOrder(prerequisites);
+	vector<int> res = findOrder(2, prerequisites);
 
 	for (const int& r : res) {
 		cout << r << " ";		// {0, 2, 1, 3}

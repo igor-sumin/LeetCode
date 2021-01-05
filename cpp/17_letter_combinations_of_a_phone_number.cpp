@@ -19,11 +19,13 @@ public:
         };
         
         vector<string> sett(1, "");
+        // рассматриваем очередную цифру
         for (char digit : digits) {
             
             vector<string> newSet;
             for (const string& prefix : sett) {
                 // 'char' - 'char' = 'int'
+                // идем по буквам цифры
                 for (char letter : letters[digit - '2']) {
                     newSet.push_back(prefix + letter);
                 }
