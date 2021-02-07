@@ -35,23 +35,32 @@ Explanation: Your function can return either index number 1 where the peak eleme
 // что в направлении этого соседа есть пик.
 int findPeakElement(const vector<int>& a) {
 	// до пика
-	int before = -1;
+	int before = 0;
 	// после пика
-	int after = (int)a.size();
+	int after = (int)a.size() - 1;
 
-	// before mid mid+1 after
-	while (before + 2 < after) {
-		int mid = before + (after - before) / 2;
+	// Конструкция такая: [before, mid1, mid2, after]
+    //     	   /\
+	//    	  /| \
+	// 		 / |  \
+  	//      /  |   \
+  	//     /|  |    \
+  	//    / |  |     \
+  	//   /  |  |      \
+  	//  / mid1 mid2    \
 
-		if (a[mid] > a[mid + 1]) {
-			after = mid + 1;
+	while (before < after) {
+		int mid1 = before + (after - before) / 2;
+		int mid2 = mid1 + 1;
+
+		if (a[mid1] < a[mid2]) {
+			before = mid2;
 		} else {
-			before = mid;
+			after = mid1;
 		}
 	}
-
-	return before + 1;
-
+	
+	return before;
 }
 
 int main() {

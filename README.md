@@ -39,6 +39,7 @@ LeetCode
 |496|  [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [C++](./cpp/496_next_greater_element_i.cpp) |
 |637|  [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [C++](./cpp/637_average_of_levels_in_binary_tree.cpp) |
 |665|  [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [C++](./cpp/665_non_decreasing_array.cpp) |
+|695|  [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [C++](./cpp/695_max_area_of_island.cpp) |
 |704|  [Binary Search](https://leetcode.com/problems/binary-search/) | [C++](./cpp/704_binary_search.cpp) |
 |819|  [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python](./python/819_most_common_word.py) |
 |821|  [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [C++](./cpp/821_shortest_distance_to_a_character.cpp) |
