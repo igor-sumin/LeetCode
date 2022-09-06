@@ -57,3 +57,4 @@ LeetCode
 |1446| [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [C++](./cpp/1446_consecutive_characters.cpp) |
 |1480| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python](./python/1480_running_sum_of_1d_array.py) |
 |1672| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [C++](./cpp/1672_richest_customer_wealth.cpp), [Python](./python/1672_richest_customer_wealth.py) |
+|2108| [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [C++](./cpp/2108_find_first_palindromic_string_in_the_array.cpp) |
