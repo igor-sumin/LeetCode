@@ -41,6 +41,7 @@ LeetCode
 |665|  [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [C++](./cpp/665_non_decreasing_array.cpp) |
 |695|  [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [C++](./cpp/695_max_area_of_island.cpp) |
 |704|  [Binary Search](https://leetcode.com/problems/binary-search/) | [C++](./cpp/704_binary_search.cpp) |
+|724|  [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C++](./cpp/724_find_pivot_index.cpp) |
 |819|  [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python](./python/819_most_common_word.py) |
 |821|  [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [C++](./cpp/821_shortest_distance_to_a_character.cpp) |
 |852|  [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [C++](./cpp/852_peak_index_in_a_mountain_array.cpp), [Python](./python/852_peak_index_in_a_mountain_array.py) |
@@ -56,5 +57,8 @@ LeetCode
 |1427| [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [C++](./cpp/1427_perform_string_shifts.cpp) |
 |1446| [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [C++](./cpp/1446_consecutive_characters.cpp) |
 |1480| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python](./python/1480_running_sum_of_1d_array.py) |
+|1480| [Running Sum Of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [C++](./cpp/1480_running_sum_of_1d_array.cpp) |
 |1672| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [C++](./cpp/1672_richest_customer_wealth.cpp), [Python](./python/1672_richest_customer_wealth.py) |
 |2108| [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [C++](./cpp/2108_find_first_palindromic_string_in_the_array.cpp) |
+|2259| [Remove Digit From Number To Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) | [C++](./cpp/2259_remove_digit_from_number_to_maximize_result.cpp) |
+|2404| [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/) | [C++](./cpp/2404_most_frequent_even_element.cpp) |
