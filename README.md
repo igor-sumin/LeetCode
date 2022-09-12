@@ -22,6 +22,7 @@ LeetCode
 |171|  [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./cpp/171_excel_sheet_column_number.cpp) |
 |179|  [Largest number](https://leetcode.com/problems/largest-number/) | [C++](./cpp/179_largest_number.cpp) |
 |200|  [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./cpp/200_number_of_islands.cpp) |
+|205|  [Iso Strings](https://leetcode.com/problems/iso-strings/) | [C++](./cpp/205_iso_strings.cpp) |
 |206|  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./cpp/206_reverse_linked_list.cpp) |
 |207|  [Course Schedule](https://leetcode.com/problems/course-schedule/) | [C++](./cpp/207_course_schedule.cpp) |
 |210|  [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [C++](./cpp/210_course_schedule_ii.cpp) |
@@ -33,6 +34,7 @@ LeetCode
 |283|  [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./cpp/283_move_zeroes.cpp) |
 |287|  [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python](./python/287_find_the_duplicate_number.py) |
 |290|  [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](./python/290_word_pattern.py) |
+|392|  [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C++](./cpp/392_is_subsequence.cpp) |
 |394|  [Decode String](https://leetcode.com/problems/decode-string/) | [C++](./cpp/394_decode_string.cpp) |
 |476|  [Number Complement](https://leetcode.com/problems/number-complement/) | [C++](./cpp/476_number_complement.cpp) |
 |495|  [Teemo attacking](https://leetcode.com/problems/teemo-attacking/) | [C++](./cpp/495_teemo_attacking.cpp) |
