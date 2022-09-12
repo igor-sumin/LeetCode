@@ -22,7 +22,7 @@ LeetCode
 |171|  [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./cpp/171_excel_sheet_column_number.cpp) |
 |179|  [Largest number](https://leetcode.com/problems/largest-number/) | [C++](./cpp/179_largest_number.cpp) |
 |200|  [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./cpp/200_number_of_islands.cpp) |
-|205|  [Iso Strings](https://leetcode.com/problems/isomorphic-strings/) | [C++](./cpp/205_isomorphic_strings.cpp) |
+|205|  [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [C++](./cpp/205_isomorphic_strings.cpp) |
 |206|  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./cpp/206_reverse_linked_list.cpp) |
 |207|  [Course Schedule](https://leetcode.com/problems/course-schedule/) | [C++](./cpp/207_course_schedule.cpp) |
 |210|  [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [C++](./cpp/210_course_schedule_ii.cpp) |
